@@ -4,7 +4,7 @@
     "au": { "key": "Australia", "value": "au", "college": "anzca" },
     "ca": { "key": "Canada", "value": "ca" },
     "de": { "key": "Deutschland", "value": "de", "college": "dgai" },
-    "at": { "key": "Österreich", "value": "as", "college": "ögari" },
+    "at": { "key": "Österreich", "value": "at", "college": "ögari" },
     "nz": { "key": "New Zealand", "value": "nz", "college": "anzca" },
     "ug": { "key": "Uganda", "value": "ug", "college": "canesca" },
     "Other": { "key": "Other", "value": "Other" }
