@@ -7,7 +7,7 @@ You can access the settings tab by clicking on the settings icon. The settings t
   * Please note that the ```Supervision``` and ```Supervisor``` fields are required for your RCoA logbook summary and ARCP if you are a trainee. If you are a consultant, you can turn both fields off as they don't apply to you.
   * The ```Duration``` form field will be used to calculate your total anaesthetic time and will be shown in your logbook summary in a future update. We think this is a better marker of anaesthetic exposure than case numbers.
   * The ```Position``` and ```Analgesia``` form items are optional and disabled by default. Depending on popularity, these may be removed in future updates. We regularly test new form fields and analyse how useful they are based on user feedback.
-* **Forms**. If you don't do intesnive care or clinics, you can turn off these form fields here.
+* **Forms**. If you don't do intensive care or clinics, you can turn off these form fields here.
 
 # Inserting a case
 * ```Date```. The app will automatically select **Today** unless you have entered a case within the last 12 hours. In that case, the last date of the previous case will be automatically selected. This is helpful for users who enter cases on a weekly basis, as you don't have to change the date of your cases all the time. As you can see, there are only two options by default - today and yesterday. To select any date, just click on the calender icon.
