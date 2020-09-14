@@ -1,0 +1,118 @@
+{
+  "country": {
+    "uk": { "key": "United Kingdom", "value": "uk", "college": "rcoa" },
+    "au": { "key": "Australia", "value": "au", "college": "anzca" },
+    "ca": { "key": "Canada", "value": "ca" },
+    "de": { "key": "Deutschland", "value": "de", "college": "dgai" },
+    "at": { "key": "Österreich", "value": "at", "college": "ögari" },
+    "nz": { "key": "New Zealand", "value": "nz", "college": "anzca" },
+    "ug": { "key": "Uganda", "value": "ug", "college": "canesca" },
+    "Other": { "key": "Other", "value": "Other" }
+  },
+  "region": {
+    "uk": {
+      "ne": { "key": "North East", "value": "ne" },
+      "nw": { "key": "North West", "value": "nw" },
+      "yh": { "key": "Yorkshire and the Humber", "value": "yh" },
+      "em": { "key": "East Midlands", "value": "em" },
+      "wm": { "key": "West Midlands", "value": "wm" },
+      "ee": { "key": "East of England", "value": "ee" },
+      "lo": { "key": "London", "value": "lo" },
+      "kss": { "key": "Kent, Surrey and Sussex", "value": "kss" },
+      "sw": { "key": "South West", "value": "sw" },
+      "tv": { "key": "Thames Valley", "value": "tv" },
+      "wx": { "key": "Wessex", "value": "wx" },
+      "ni": { "key": "Northern Ireland", "value": "ni" },
+      "sc": { "key": "Scotland", "value": "sc" },
+      "wa": { "key": "Wales", "value": "wa" }
+    },
+    "at": {
+      "at11": { "key": "Burgen­land", "value": "at11" },
+      "at21": { "key": "Kärnten", "value": "at21" },
+      "at12": { "key": "Nieder­österreich", "value": "at12" },
+      "at31": { "key": "Ober­österreich", "value": "at31" },
+      "at32": { "key": "Salzburg", "value": "at32" },
+      "at22": { "key": "Steier­mark", "value": "at22" },
+      "at33": { "key": "Tirol", "value": "at33" },
+      "at34": { "key": "Vorarl­berg", "value": "at34" },
+      "at13": { "key": "Wien", "value": "at13" }
+    },
+    "au": {
+      "act": { "key": "Australian Capital Territory", "value": "act" },
+      "ta": { "key": "Tasmania", "value": "ta" },
+      "nsw": { "key": "New South Wales", "value": "nsw" },
+      "vi": { "key": "Victoria", "value": "vi" },
+      "ql": { "key": "Queensland", "value": "ql" },
+      "wa": { "key": "Western Australia", "value": "wa" },
+      "sa": { "key": "South Australia and Northern Territory", "value": "sa" }
+    },
+    "de": {
+      "bw": { "key": "Baden-Württemberg", "value": "bw" },
+      "ba": { "key": "Bayern", "value": "ba" },
+      "be": { "key": "Berlin", "value": "be" },
+      "bb": { "key": "Brandenburg", "value": "bb" },
+      "hb": { "key": "Hansestadt Bremen", "value": "hb" },
+      "ha": { "key": "Hamburg", "value": "ha" },
+      "he": { "key": "Hessen", "value": "he" },
+      "mv": { "key": "Mecklenburg-Vorpommern", "value": "mv" },
+      "ns": { "key": "Niedersachsen", "value": "ns" },
+      "nw": { "key": "Nordrhein-Westfalen", "value": "nw" },
+      "rp": { "key": "Rheinland-Pfalz", "value": "rp" },
+      "sl": { "key": "Saarland", "value": "sl" },
+      "ss": { "key": "Sachsen", "value": "ss" },
+      "sa": { "key": "Sachsen-Anhalt", "value": "sa" },
+      "sh": { "key": "Schleswig-Holstein", "value": "sh" },
+      "th": { "key": "Thüringen", "value": "th" }
+    },
+    "ug": {
+      "bu": { "key": "Busitema University", "value": "bu" },
+      "must": { "key": "Mbarara University of Science and Technology", "value": "must" },
+      "mu": { "key": "Makerere University", "value": "mu" }
+    }
+  },
+  "level": {
+    "uk": {
+      "ct1": {" key": "CT1", "value": "ct1", "label": "Core Trainee 1" },
+      "ct2": { "key": "CT2", "value": "ct2", "label": "Core Trainee 2" },
+      "ct3": { "key": "CT3", "value": "ct3", "label": "Core Trainee 3" },
+      "st3": { "key": "ST3", "value": "st3", "label": "Speciality Trainee 3" },
+      "st4": { "key": "ST4", "value": "st4", "label": "Speciality Trainee 4" },
+      "st5": { "key": "ST5", "value": "st5", "label": "Speciality Trainee 5" },
+      "st6": { "key": "ST6", "value": "st6", "label": "Speciality Trainee 6" },
+      "st7": { "key": "ST7", "value": "st7", "label": "Speciality Trainee 7" },
+      "cons": { "key": "Cons", "value": "cons", "label": "Consultant" },
+      "sas": { "key": "SAS", "value": "sas", "label": "Staff and Associate Specialist" },
+      "oope": { "key": "OOPE", "value": "oope", "label": "Out Of Programme Experience" },
+      "aa": { "key": "AA", "value": "aa", "label": "Anaesthesia Associate" },
+      "anp": { "key": "ACCP", "value": "accp", "label": "Advanced critical care practitioner" }
+    },
+    "au": {
+      "bty1": { "key": "BTY1", "value": "bty1", "label": "Basic Training 1" },
+      "bty2": { "key": "BTY2", "value": "bty2", "label": "Basic Training 2" },
+      "aty1": { "key": "ATY1", "value": "aty1", "label": "Advanced Training 1" },
+      "aty2": { "key": "ATY2", "value": "aty2", "label": "Advanced Training 2" },
+      "aty3": { "key": "ATY3", "value": "aty3", "label": "Advanced Training 3" },
+      "pf": { "key": "PF", "value": "pf", "label": "Provisional Fellow" },
+      "cons": { "key": "Consultant", "value": "cons", "label": "Consultant" }
+    },
+    "ug": {
+      "y1": { "key": "Y1", "value": "y1", "label": "Year 1" },
+      "y2": { "key": "Y2", "value": "y2", "label": "Year 2" },
+      "y3": { "key": "Y3", "value": "y3", "label": "Year 3" },
+      "y4": { "key": "Y4", "value": "y4", "label": "Year 4" },
+      "ao": { "key": "AO", "value": "ao", "label": "Anaesthetic Officer" },
+      "pa": { "key": "PA", "value": "pa", "label": "Anaesthesiologist" }
+    },
+    "de": {
+      "aiw1": { "key": "AiW1", "value": "aiw1", "label": "Assistenzarzt Jahr 1" },
+      "aiw2": { "key": "AiW2", "value": "aiw2", "label": "Assistenzarzt Jahr 2" },
+      "aiw3": { "key": "AiW3", "value": "aiw3", "label": "Assistenzarzt Jahr 3" },
+      "aiw4": { "key": "AiW4", "value": "aiw4", "label": "Assistenzarzt Jahr 4" },
+      "aiw5": { "key": "AiW5", "value": "aiw5", "label": "Assistenzarzt Jahr 5" },
+      "aiw6": { "key": "AiW6", "value": "aiw6", "label": "Assistenzarzt Jahr 6" },
+      "oa": { "key": "OA", "value": "oa", "label": "Oberarzt" },
+      "fa": { "key": "FA", "value": "fa", "label": "Facharzt" },
+      "ca": { "key": "CA", "value": "ca", "label": "Chefarzt" }
+    },
+  }
+}
